@@ -1,0 +1,6 @@
+hellojpa/domain/Member.java
+ hellojpa.domain.Member
+hellojpa/JpaMain.java
+ hellojpa.JpaMain
+hellojpa/PersistenceStudyMain.java
+ hellojpa.PersistenceStudyMain
